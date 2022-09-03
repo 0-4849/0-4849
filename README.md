@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0-4849
-- 👀 I’m interested in python i guess
-- 🌱 I’m currently learning not much
-- 💞️ I’m looking to collaborate on nothing, i'm bad
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python, a bit of C
+- 💞️ I’m looking to collaborate on not much
 - 📫 How to reach me: you can ask for my discord
 
 <!---
