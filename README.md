@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @0-4849
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python, a bit of C
-- 💞️ I’m looking to collaborate on not much
-- 📫 How to reach me: you can ask for my discord
+- 👀 I’m interested in Haskell
+- 🌱 I’m currently learning Python with numpy and PyQtGraph
 
 <!---
 0-4849/0-4849 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
